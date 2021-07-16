@@ -128,9 +128,6 @@
                 </div>
             </div>
         </div>
-{{ __('come at it from a new direction') }}
-{{ __('there\'s two issues') }}
-{{ __('think about other options') }}
-{{ __('i don\'t think that\'s a good move') }}
+{{ __('try to tread lig\'htly') }}
     </body>
 </html>
