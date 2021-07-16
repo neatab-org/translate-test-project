@@ -128,5 +128,6 @@
                 </div>
             </div>
         </div>
+{{ __('he went out for a birthday party') }}
     </body>
 </html>
