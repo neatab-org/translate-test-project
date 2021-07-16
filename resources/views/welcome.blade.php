@@ -129,5 +129,6 @@
             </div>
         </div>
 {{ __('he went out for a birthday party') }}
+{{ __('that would give him this opportunity') }}
     </body>
 </html>
