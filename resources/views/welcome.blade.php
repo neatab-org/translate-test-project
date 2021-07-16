@@ -128,6 +128,6 @@
                 </div>
             </div>
         </div>
-{{ __('he went out for a birthday party') }}
+{{ __('come at it from a new direction') }}
     </body>
 </html>
