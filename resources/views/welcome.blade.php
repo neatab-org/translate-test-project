@@ -129,7 +129,5 @@
             </div>
         </div>
 {{ __('he went out for a birthday party') }}
-{{ __('that would give him this opportunity') }}
-{{ __('you say that often') }}
     </body>
 </html>
