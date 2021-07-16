@@ -130,6 +130,5 @@
         </div>
 {{ __('come at it from a new direction') }}
 {{ __('there\'s two issues') }}
-{{ __('a bold new path') }}
     </body>
 </html>
