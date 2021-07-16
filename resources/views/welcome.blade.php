@@ -130,5 +130,6 @@
         </div>
 {{ __('come at it from a new direction') }}
 {{ __('there\'s two issues') }}
+{{ __('think about other options') }}
     </body>
 </html>
