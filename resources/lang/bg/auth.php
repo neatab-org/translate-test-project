@@ -5,6 +5,5 @@
  */
 
 return [
-	"failed" => "Simulated translation",
-	"throttle" => "Simulated translation",
+	"error" => "Simulated translation",
 ];
