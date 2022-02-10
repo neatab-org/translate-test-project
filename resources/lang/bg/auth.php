@@ -5,6 +5,7 @@
  */
 
 return [
+	"error" => "hi there",
 	"failed" => "Simulated translation",
 	"throttle" => "Simulated translation",
 ];
