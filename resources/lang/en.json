@@ -9,5 +9,6 @@
     "batch brew": "batch brew",
     "espresso": "espresso", 
     "ristretto": "ristretto",
-    "americano": "americano"
+    "americano": "americano",
+    "cappuccino": "cappuccino"
 }
